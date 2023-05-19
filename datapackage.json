@@ -124,7 +124,7 @@
     {
       "name": "plf2014-bg-ministeres-missions-programme-titres-actions-openspending",
       "format": "csv",
-      "path": "https://storage.openspending.org/plf2014-bg-ministeres-missions-programme-titres-actions-openspending.csv",
+      "path": "https://storage.openspending.org/france_cplf_2013_2014/plf2014-bg-ministeres-missions-programme-titres-actions-openspending.csv",
       "mediatype": "text/csv",
       "bytes": 1438355,
       "dialect": {
